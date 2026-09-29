@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components\\\\Navbar.tsx -> react-hot-toast\":{\"id\":\"components\\\\Navbar.tsx -> react-hot-toast\",\"files\":[]}}"
